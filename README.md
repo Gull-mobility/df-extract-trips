@@ -5,6 +5,8 @@ Dataflow that query bulkData positions of vehicles and extract the trips
  ## Excecute un Google Cloud
  To don`t need to deal with auth problems it`s easier execute the script using the CLOUD SHELL
  
+ 0 - If it is needed a new python library install using `pip3 install firebase-admin`
+
  1 - Upload the .py to Cloud Shell (wherever you want, in the main folder it`s ok)
  
  2- Execute the command that launch the Dataflow job
